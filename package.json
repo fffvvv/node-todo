@@ -1,0 +1,15 @@
+{
+  "name": "zqjares-node-todo",
+  "bin": {
+    "t": "cli.js"
+  },
+  "files": [
+    "*.js"
+  ],
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "commander": "^3.0.2",
+    "inquirer": "^8.2.0"
+  }
+}
